@@ -1,0 +1,20 @@
+img{
+    width: 200px;
+    height: 300px;
+}
+#avg{
+    width: 700px;
+    height: 400px;
+}
+body{
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    
+}
+.section-style{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
